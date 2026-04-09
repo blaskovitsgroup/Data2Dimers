@@ -1,0 +1,15 @@
+torch>=2.0
+transformers>=4.40
+tokenizers>=0.15
+huggingface_hub
+accelerate
+datasets
+
+numpy
+scipy
+pandas
+scikit-learn
+
+tqdm
+requests
+pyyaml
